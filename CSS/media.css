@@ -7,17 +7,12 @@
     }
     .links ul li{
        
-        padding-left: 10px;
+        padding-left: 7px;
     }    
     .links ul li a{
-        font-size: 10px;
+        font-size: 8px;
     }   
-    .nav{
-        padding: 25px 0px;
-    }
-    .logo a{
-        font-size: 20px;
-    }
+   
     .about-info{
         margin-top: 10px;
     }  
@@ -57,15 +52,21 @@ width: 40%;
         width: 100%;
       
     }
+    .triangle{
+        width: 40%;
+    }
     .card-item {
            width: 100%;
            
     }
     .card-item-container{
-        padding: 50px;
+        padding: 10px;
     }
     .card-item img,video{
         height: 30%;
+            width: 100%;
+        }
+        .inner{
             width: 100%;
         }
  #name,#email,#subject,#message{
