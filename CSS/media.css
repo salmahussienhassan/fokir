@@ -1,0 +1,164 @@
+/* xs */
+
+@media screen and (min-width:0px) and (max-width:600px){
+    .icon{
+        padding: 10px 0px;
+    }
+    .links ul li{
+       
+        padding-left: 10px;
+    }    
+    .links ul li a{
+        font-size: 10px;
+    }     
+    .about-img,.about-info{
+        width: 100%;
+    }
+    .about-img{
+        border: none;
+    }
+    .about-img .inner{
+        top: 0px;
+        left: 0px;
+    }
+    .testimonial ,  .testimonial .imgg,   .testimonial .info{
+        width: 100%;
+    }
+     .testimonial .info{
+        text-align: center;
+     }
+      .testimonial img{
+width: 40%;
+      }
+    .icon{
+        width: 100%;
+    }
+    .text{
+        margin-top:350px;
+     
+        text-align: center;
+     
+    }
+    .item{
+        width: 100%;
+    }
+    .card{
+        
+        width: 100%;
+      
+    }
+    .card-item {
+           width: 100%;
+           
+    }
+    .card-item-container{
+        padding: 50px;
+    }
+    .card-item img,video{
+        height: 60%;
+            width: 100%;
+        }
+ #name,#email,#subject,#message{
+    
+        width: 100%;
+    }
+    
+}
+/* sm */
+@media screen and (min-width:601px) and (max-width:768px){
+    .card-item {
+        width: 100%;
+        
+ }
+ .card-item-container{
+     padding: 50px;
+ }
+ .card-item img,video{
+     height: 60%;
+         width: 100%;
+     }
+    .icon{
+        padding: 10px 0px;
+    }
+    .about-img,.about-info{
+        width: 100%;
+    }
+    .about-img{
+        border: none;
+    }
+    .about-img .inner{
+        top: 0px;
+        left: 0px;
+    }
+
+    .links ul li{
+       
+        padding-left: 10px;
+    }    
+    .links ul li a{
+        font-size: 13px;
+    } 
+    .testimonial ,  .testimonial .imgg,   .testimonial .info{
+        width: 100%;
+    }
+     .testimonial .info{
+        text-align: center;
+     }
+      .testimonial img{
+width: 40%;
+      }
+    #name,#email,#subject,#message{
+       
+        width: 100%;
+    }
+    .card-item-container{
+        width: 100%;
+    }
+    .card-item{
+        width: 100%;
+        margin: auto;
+    }
+    .icon{
+        width: 100%;
+    }
+    .card{
+        
+        width: 100%;
+      
+    }
+    .item{
+        width: 100%;
+    }
+    
+}
+/* md */
+@media screen and (min-width:769px) and (max-width:991px){
+    .card{
+        
+        width: 50%;
+      
+    }
+    .item{
+        width: 50%;
+    }
+    .about-info,.about-img{
+        width: 50%;
+    }
+    .testimonial {
+        width: 100%;
+    }
+    
+     
+}
+
+/* lg */
+@media screen and (min-width:992px) and (max-width:1200px){
+   
+}
+
+
+/* xl */
+
+@media screen and (min-width:1200px){
+  
+}
