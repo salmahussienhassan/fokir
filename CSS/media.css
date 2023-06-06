@@ -1,6 +1,7 @@
 /* xs */
 
 @media screen and (min-width:0px) and (max-width:600px){
+    
     .icon{
         padding: 10px 0px;
     }
@@ -10,7 +11,16 @@
     }    
     .links ul li a{
         font-size: 10px;
-    }     
+    }   
+    .nav{
+        padding: 25px 0px;
+    }
+    .logo a{
+        font-size: 20px;
+    }
+    .about-info{
+        margin-top: 10px;
+    }  
     .about-img,.about-info{
         width: 100%;
     }
@@ -55,7 +65,7 @@ width: 40%;
         padding: 50px;
     }
     .card-item img,video{
-        height: 60%;
+        height: 30%;
             width: 100%;
         }
  #name,#email,#subject,#message{
@@ -66,6 +76,7 @@ width: 40%;
 }
 /* sm */
 @media screen and (min-width:601px) and (max-width:768px){
+    
     .card-item {
         width: 100%;
         
@@ -96,8 +107,17 @@ width: 40%;
         padding-left: 10px;
     }    
     .links ul li a{
-        font-size: 13px;
-    } 
+        font-size: 10px;
+    }   
+    .nav{
+        padding: 25px 0px;
+    }
+    .logo a{
+        font-size: 20px;
+    }
+    .about-info{
+        margin-top: 10px;
+    }  
     .testimonial ,  .testimonial .imgg,   .testimonial .info{
         width: 100%;
     }
