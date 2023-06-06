@@ -80,7 +80,7 @@ float: right;
 
 /* home */
 .home{
-   background-image: url('/img/slider-02.jpg');
+   background-image: url('../img/slider-02.jpg');
    background-position: center;
    background-size: cover;
    height: 100vh;
